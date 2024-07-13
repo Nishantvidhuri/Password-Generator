@@ -1,2 +1,16 @@
-# Password-Generator
-This project is a simple and intuitive password generator web application. It allows users to create strong and customizable passwords based on user-defined criteria, ensuring both security and convenience. The application features a clean, modern interface and provides real-time feedback on password strength.
+# Password Generator
+
+This is a simple password generator web application that allows users to create strong passwords with customizable options.
+
+## Features
+- Generate passwords with uppercase letters, lowercase letters, numbers, and symbols
+- Adjustable password length
+- Strength indicator
+
+## Usage
+Open `index.html` in your web browser to use the application.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
